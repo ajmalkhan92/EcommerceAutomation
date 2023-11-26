@@ -5,7 +5,7 @@
         <classes>
             <class name="src.test.E2E.PlaceOrderTests">
                 <methods>
-                    <include name="SampleTest"/>
+                    <include name="CheckHomePageLoadedSuccessfully"/>
                 </methods>
             </class>
         </classes>
